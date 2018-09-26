@@ -1,4 +1,4 @@
-# jpeg-marker-repair
+# JPEG Marker Repair
 > Repair jpeg images with missing SOFn, DQT, etc. markers.
 
 This little programm was created to solve this error:
