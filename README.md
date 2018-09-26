@@ -45,6 +45,9 @@ Distributed under the GNU license. See ``LICENSE`` for more information.
 * Windows 10 (64/32 bit)
 * Windows 7 (64 bit)
 
+## Download
+[![Download for Windows](https://radio.co/uploads/windows-button-download.png)](https://github.com/0xSauel/jpeg-marker-repair/blob/master/Image_Repair_v2.exe)
+
 
 ## Additional information
 
