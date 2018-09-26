@@ -2,7 +2,7 @@
 > Repair jpeg images with missing SOFn, DQT, etc. markers.
 
 This little programm was created to solve this error:
-
+>> Could not complete your request because of SOFn, DQT or DHT JPEG marker is missing before a JPEG SOS marker
 ![](header.png)
 
 Accordingly to Adobe forums, you need to check for extension of your file, open it in 3rd party program and re-save. It's ok for 1-3 images. But what if you need to fix like 100, 1000 images? That's why I decide to write this simple programm to automate this process.
