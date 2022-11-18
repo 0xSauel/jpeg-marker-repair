@@ -1,3 +1,9 @@
+# This not working anymore. Better use this: https://github.com/cdefgah/whatsapp-jpeg-repair
+In case anyone wondering why there's no source code:
+I just haven't enough time to finish refactoring my old terrible code. That's all.
+Anyway you can recreate it by yourself by just open-save with python. You don't even need to do smth with image. 
+
+
 # JPEG Marker Repair
 > Repair jpeg images with missing SOFn, DQT, etc. markers.
 
